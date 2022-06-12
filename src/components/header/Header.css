@@ -1,0 +1,8 @@
+.header-page {
+
+    width: 100vw;
+    /* min-height: 80px;
+    height: 10vh; */
+    background-color: #cbdae8;
+    border-bottom: 2px solid red;
+}

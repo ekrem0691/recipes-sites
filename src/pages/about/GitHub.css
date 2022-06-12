@@ -1,0 +1,20 @@
+.gitgub-page {
+    width: 100vw;
+    height: 100vh;
+    background-color: #00acb4;
+}
+.icon-div {
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons {
+    transform: scale(5);
+    color: black;
+    transition: all 0.7s;
+}
+.icons:hover {
+    transform: scale(9);
+    color: orange;
+}

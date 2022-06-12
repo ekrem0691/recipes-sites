@@ -1,0 +1,10 @@
+.details-page {
+  /* width: 100vw; */
+  height: 100vh;
+  background-color: #00acb4;
+}
+.boxs {
+  border: 2rem double white;
+  background-color: #00acb4;
+  padding: 2rem;
+}
